@@ -1,0 +1,12 @@
+.vs/
+**/.vs/
+
+[Bb]in/
+[Oo]bj/
+
+packages/
+
+*.user
+*.suo
+*.vsidx
+*.tmp
